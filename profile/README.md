@@ -1,6 +1,6 @@
 # 👋 Welcome to Cimplic
 
-**Cimplic** is where *computing meets simplicity*. 
+**Cimplic** is where *in-memory computing meets simplicity*. 
 
 ---
 ### 🤝 Get Involved
