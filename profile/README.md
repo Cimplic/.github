@@ -4,9 +4,8 @@
 
 ---
 ### 🤝 Get Involved
-🌐 [www.cimplic.com](https://www.cimplic.com) *(coming soon)*
-
+🌐 [www.cimplic.com](https://www.cimplic.com) 
 ---
 
-**Cimplic — Simplifying Complexity in Computing.**
+**Cimplic — Simplifying Computing-in-Memory.**
 
