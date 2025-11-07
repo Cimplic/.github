@@ -1,11 +1,11 @@
-# 👋 Welcome to Cimplic
+# 👋 Welcome to Ximplic Systems
 
-**Cimplic** is where *in-memory computing meets simplicity*. 
+**Ximplic** is where *in-memory computing meets simplicity*. 
 
 ---
 ### 🤝 Get Involved
-🌐 [www.cimplic.com](https://www.cimplic.com) 
+🌐 [www.ximplic.com](https://www.Ximplic.com) 
 ---
 
-**Cimplic — Simplifying Computing-in-Memory.**
+**Ximplic — Simplifying Computing-in-Memory.**
 
