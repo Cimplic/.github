@@ -4,7 +4,7 @@
 
 ---
 ### 🤝 Get Involved
-🌐 [www.ximplic.com](https://www.Ximplic.com) 
+🌐 [www.ximplic.com](https://Ximplic.com) 
 ---
 
 **Ximplic — Simplifying Computing-in-Memory.**
