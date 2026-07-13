@@ -7,5 +7,5 @@
 🌐 [www.ximplic.com](https://Ximplic.com) 
 ---
 
-**Ximplic — Simplifying Computing-in-Memory.**
+**Ximplic - Simplifying Computing-in-Memory.**
 
